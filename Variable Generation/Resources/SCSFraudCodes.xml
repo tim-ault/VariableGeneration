@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_SCS_FRAUD_NO_FRAUD_DETECTED</Name>
+		<Text>No Fraud Detected</Text>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+		<Name>SSP_SCS_FRAUD_FLAP</Name>
+		<Text>Flap</Text>
+	</SSPData>
+	<SSPData>
+		<Code>2</Code>
+		<Name>SSP_SCS_FRAUD_EXIT</Name>
+		<Text>Exit</Text>
+	</SSPData>
+	<SSPData>
+		<Code>3</Code>
+		<Name>SSP_SCS_FRAUD_FLAP_ZERO</Name>
+		<Text>Flap Zero</Text>
+	</SSPData>
+	<SSPData>
+		<Code>4</Code>
+		<Name>SSP_SCS_FRAUD_EXIT_ZERO</Name>
+		<Text>Exit Zero</Text>
+	</SSPData>
+	<SSPData>
+		<Code>5</Code>
+		<Name>SSP_SCS_FRAUD_NO_COIN_ENTRIES</Name>
+		<Text>No Coin Entries</Text>
+	</SSPData>
+	<SSPData>
+		<Code>6</Code>
+		<Name>SSP_SCS_FRAUD_NO_COIN_EXITS</Name>
+		<Text>No Coin Exits</Text>
+	</SSPData>
+	<SSPData>
+		<Code>7</Code>
+		<Name>SSP_SCS_FRAUD_COIN_EXIT_FIRST_SLOT_TOO_LOW</Name>
+		<Text>Coin Exit First Slot Too Low</Text>
+	</SSPData>
+	<SSPData>
+		<Code>8</Code>
+		<Name>SSP_SCS_FRAUD_COIN_EXIT_WIDTH_TOO_HIGH</Name>
+		<Text>Coin Exit Width Too High</Text>
+	</SSPData>
+	<SSPData>
+		<Code>9</Code>
+		<Name>SSP_SCS_FRAUD_FLAP_ACTIVE_WHILE_IDLE</Name>
+		<Text>Flap Active While Idle</Text>
+	</SSPData>
+	<SSPData>
+		<Code>10</Code>
+		<Name>SSP_SCS_FRAUD_EXIT_ACTIVE_WHILE_IDLE</Name>
+		<Text>Exit Active While Idle</Text>
+	</SSPData>
+	<SSPData>
+		<Code>11</Code>
+		<Name>SSP_SCS_FRAUD_FLAP_ACTIVE_WHILE_PAYOUT_IDLE</Name>
+		<Text>Flap Active While Payout Idle</Text>
+	</SSPData>
+	<SSPData>
+		<Code>12</Code>
+	</SSPData>
+	<SSPData>
+		<Code>13</Code>
+	</SSPData>
+	<SSPData>
+		<Code>14</Code>
+	</SSPData>
+	<SSPData>
+		<Code>15</Code>
+	</SSPData>
+</Root>

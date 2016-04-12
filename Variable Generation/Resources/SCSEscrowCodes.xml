@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+		<Name>SSP_SCS_ESCROW_OPEN_EVENT_COUNT</Name>
+		<Text>Open Event Count</Text>
+	</SSPData>
+	<SSPData>
+		<Code>2</Code>
+		<Name>SSP_SCS_ESCROW_OPEN_EVENT_VALUE</Name>
+		<Text>Open Event Value</Text>
+	</SSPData>
+	<SSPData>
+		<Code>3</Code>
+		<Name>SSP_SCS_ESCROW_START</Name>
+		<Text>Start</Text>
+	</SSPData>
+	<SSPData>
+		<Code>4</Code>
+		<Name>SSP_SCS_ESCROW_REJECT</Name>
+		<Text>Reject</Text>
+	</SSPData>
+	<SSPData>
+		<Code>5</Code>
+		<Name>SSP_SCS_ESCROW_CLOSE</Name>
+		<Text>Close</Text>
+	</SSPData>
+	<SSPData>
+		<Code>6</Code>
+		<Name>SSP_SCS_ESCROW_TIMEOUT</Name>
+		<Text>Timeout</Text>
+	</SSPData>
+	<SSPData>
+		<Code>7</Code>
+	</SSPData>
+	<SSPData>
+		<Code>8</Code>
+	</SSPData>
+	<SSPData>
+		<Code>9</Code>
+	</SSPData>
+	<SSPData>
+		<Code>10</Code>
+	</SSPData>
+	<SSPData>
+		<Code>11</Code>
+	</SSPData>
+	<SSPData>
+		<Code>12</Code>
+	</SSPData>
+	<SSPData>
+		<Code>13</Code>
+	</SSPData>
+	<SSPData>
+		<Code>14</Code>
+	</SSPData>
+	<SSPData>
+		<Code>15</Code>
+	</SSPData>
+</Root>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_UNIT_TYPE_VALIDATOR</Name>
+		<Text>Validator</Text>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+	</SSPData>
+	<SSPData>
+		<Code>2</Code>
+	</SSPData>
+	<SSPData>
+		<Code>3</Code>
+		<Name>SSP_UNIT_TYPE_SMART_HOPPER</Name>
+		<Text>SMART Hopper</Text>
+	</SSPData>
+	<SSPData>
+		<Code>4</Code>
+		<Name>SSP_UNIT_TYPE_BULK_COIN_VALIDATOR</Name>
+		<Text>Bulk Coin Validator</Text>
+	</SSPData>
+	<SSPData>
+		<Code>5</Code>
+	</SSPData>
+	<SSPData>
+		<Code>6</Code>
+		<Name>SSP_UNIT_TYPE_SMART_PAYOUT</Name>
+		<Text>SMART Payout</Text>
+	</SSPData>
+	<SSPData>
+		<Code>7</Code>
+		<Name>SSP_UNIT_TYPE_NV11</Name>
+		<Text>NV11</Text>
+	</SSPData>
+	<SSPData>
+		<Code>8</Code>
+		<Name>SSP_UNIT_TYPE_SMART_TICKET</Name>
+		<Text>SMART Ticket</Text>
+	</SSPData>
+	<SSPData>
+		<Code>9</Code>
+		<Name>SSP_UNIT_TYPE_SMART_COIN_SYSTEM</Name>
+		<Text>SMART Coin System</Text>
+	</SSPData>
+	<SSPData>
+		<Code>10</Code>
+	</SSPData>
+	<SSPData>
+		<Code>11</Code>
+		<Name>SSP_UNIT_TYPE_COUPON_PRINTER</Name>
+		<Text>Coupon Printer</Text>
+	</SSPData>
+	<SSPData>
+		<Code>12</Code>
+	</SSPData>
+	<SSPData>
+		<Code>13</Code>
+		<Name>SSP_UNIT_TYPE_TEBS</Name>
+		<Text>TEBS</Text>
+	</SSPData>
+	<SSPData>
+		<Code>14</Code>
+		<Name>SSP_UNIT_TYPE_TEBS_SMART_PAYOUT</Name>
+		<Text>TEBS and SMART Payout</Text>
+	</SSPData>
+	<SSPData>
+		<Code>15</Code>
+		<Name>SSP_UNIT_TYPE_TEBS_SMART_TICKET</Name>
+		<Text>TEBS and SMART Ticket</Text>
+	</SSPData>
+	<SSPData>
+		<Code>16</Code>
+	</SSPData>
+	<SSPData>
+		<Code>17</Code>
+	</SSPData>
+	<SSPData>
+		<Code>18</Code>
+	</SSPData>
+	<SSPData>
+		<Code>19</Code>
+	</SSPData>
+	<SSPData>
+		<Code>20</Code>
+	</SSPData>
+	<SSPData>
+		<Code>21</Code>
+	</SSPData>
+	<SSPData>
+		<Code>22</Code>
+	</SSPData>
+	<SSPData>
+		<Code>23</Code>
+	</SSPData>
+	<SSPData>
+		<Code>24</Code>
+	</SSPData>
+	<SSPData>
+		<Code>25</Code>
+	</SSPData>
+	<SSPData>
+		<Code>26</Code>
+	</SSPData>
+	<SSPData>
+		<Code>27</Code>
+	</SSPData>
+	<SSPData>
+		<Code>28</Code>
+	</SSPData>
+	<SSPData>
+		<Code>29</Code>
+	</SSPData>
+	<SSPData>
+		<Code>30</Code>
+	</SSPData>
+	<SSPData>
+		<Code>31</Code>
+	</SSPData>
+	<SSPData>
+		<Code>32</Code>
+	</SSPData>
+	<SSPData/>
+</Root>

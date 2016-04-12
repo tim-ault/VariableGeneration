@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<SSPData>
+		<Code>48</Code>
+		<Name>SSP_EXP_CMD_COMMAND</Name>
+		<Text>Command</Text>
+	</SSPData>
+	<SSPData>
+		<Code>5</Code>
+		<Name>SSP_EXP_CMD_PARAMETER</Name>
+		<Text>Parameter</Text>
+	</SSPData>
+	<SSPData>
+		<Code>73</Code>
+		<Name>SSP_EXP_CMD_EEPROM</Name>
+		<Text>EEPROM</Text>
+	</SSPData>
+	<SSPData>
+		<Code>21</Code>
+		<Name>SSP_EXP_CMD_MEMORY</Name>
+		<Text>Memory</Text>
+	</SSPData>
+	<SSPData>
+		<Code>57</Code>
+		<Name>SSP_EXP_CMD_HEADER_CODE</Name>
+		<Text>Header Code</Text>
+	</SSPData>
+	<SSPData>
+		<Code>100</Code>
+		<Name>SSP_EXP_CMD_SET_PROTOCOL</Name>
+		<Text>Set Protocol</Text>
+	</SSPData>
+	<SSPData>
+		<Code>104</Code>
+		<Name>SSP_EXP_CMD_PROGRAM_OPTION_PAGE</Name>
+		<Text>Program Option Page</Text>
+	</SSPData>
+	<SSPData>
+		<Code>113</Code>
+		<Name>SSP_EXP_CMD_GET_CONFIG_TABLE_START</Name>
+		<Text>Get Config Table Start</Text>
+	</SSPData>
+	<SSPData>
+		<Code>114</Code>
+		<Name>SSP_EXP_CMD_OPTION_PAGE</Name>
+		<Text>Option Page</Text>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+		<Name>SSP_EXP_CMD_READ</Name>
+		<Text>Read</Text>
+	</SSPData>
+	<SSPData>
+		<Code>18</Code>
+		<Name>SSP_EXP_CMD_EE_WRITE</Name>
+		<Text>EE Write</Text>
+	</SSPData>
+	<SSPData>
+		<Code>17</Code>
+		<Name>SSP_EXP_CMD_PAGE_WRITE</Name>
+		<Text>Page Write</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_EXP_CMD_HOPPER</Name>
+		<Text>Hopper</Text>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+		<Name>SSP_EXP_CMD_FEEDER</Name>
+		<Text>Feeder</Text>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+		<Name>SSP_EXP_CMD_PROTOCOL_SSP</Name>
+		<Text>Protocol SSP</Text>
+	</SSPData>
+	<SSPData>
+		<Code>2</Code>
+		<Name>SSP_EXP_CMD_PROTOCOL_CC2</Name>
+		<Text>Protocol CC2</Text>
+	</SSPData>
+</Root>

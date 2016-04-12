@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_SCS_CAL_NONE</Name>
+		<Text>None</Text>
+	</SSPData>
+	<SSPData>
+		<Code>1</Code>
+		<Name>SSP_SCS_CAL_HP_CHECKING_FLAP</Name>
+		<Text>HP Checking Flap</Text>
+	</SSPData>
+	<SSPData>
+		<Code>2</Code>
+		<Name>SSP_SCS_CAL_HP_DIAMETER_TX</Name>
+		<Text>HP Diameter TX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>3</Code>
+		<Name>SSP_SCS_CAL_HP_MOVING_TO_GAP</Name>
+		<Text>HP Moving TO GAP</Text>
+	</SSPData>
+	<SSPData>
+		<Code>4</Code>
+		<Name>SSP_SCS_CAL_HP_DIAMETER_RX</Name>
+		<Text>HP Diameter RX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>5</Code>
+		<Name>SSP_SCS_CAL_HP_MATERIAL_TX</Name>
+		<Text>HP Material TX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>6</Code>
+		<Name>SSP_SCS_CAL_HP_MATERIAL_RX</Name>
+		<Text>HP Material RX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>7</Code>
+		<Name>SSP_SCS_CAL_HP_PAYOUT_FLAP_OPTO</Name>
+		<Text>HP Payout Flap OPTO</Text>
+	</SSPData>
+	<SSPData>
+		<Code>8</Code>
+		<Name>SSP_SCS_CAL_HP_PAYOUT_EXIT_OPTO</Name>
+		<Text>HP Payout Exit OPTO</Text>
+	</SSPData>
+	<SSPData>
+		<Code>9</Code>
+		<Name>SSP_SCS_CAL_FD_METAL_DETECT</Name>
+		<Text>FD Metal DETECT</Text>
+	</SSPData>
+	<SSPData>
+		<Code>10</Code>
+		<Name>SSP_SCS_CAL_FD_CLEARING_COILS</Name>
+		<Text>FD Clearing COILS</Text>
+	</SSPData>
+	<SSPData>
+		<Code>11</Code>
+		<Name>SSP_SCS_CAL_FD_DIAMETER_TX</Name>
+		<Text>FD Diameter TX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>12</Code>
+		<Name>SSP_SCS_CAL_FD_DIAMETER_RX</Name>
+		<Text>FD Diameter RX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>13</Code>
+		<Name>SSP_SCS_CAL_FD_MATERIAL_TX</Name>
+		<Text>FD Material TX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>14</Code>
+		<Name>SSP_SCS_CAL_FD_MATERIAL1_RX</Name>
+		<Text>FD Material1 RX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>15</Code>
+		<Name>SSP_SCS_CAL_FD_MATERIAL2_RX</Name>
+		<Text>FD Material2 RX</Text>
+	</SSPData>
+	<SSPData>
+		<Code>16</Code>
+		<Name>SSP_SCS_CAL_FD_REJECT_OPTO</Name>
+		<Text>FD Reject OPTO</Text>
+	</SSPData>
+	<SSPData>
+		<Code>17</Code>
+		<Name>SSP_SCS_CAL_FD_ACCEPT_OPTO</Name>
+		<Text>FD Accept OPTO</Text>
+	</SSPData>
+	<SSPData>
+		<Code>18</Code>
+		<Name>SSP_SCS_CAL_HP_PSU_VOLTAGE</Name>
+		<Text>HP PSU Voltage</Text>
+	</SSPData>
+	<SSPData>
+		<Code>19</Code>
+		<Name>SSP_SCS_CAL_FD_ACCEPT_FLAP</Name>
+		<Text>FD Accept Flap</Text>
+	</SSPData>
+	<SSPData>
+		<Code>20</Code>
+		<Name>SSP_SCS_CAL_HP_UNKNOWN_COIN</Name>
+		<Text>HP Unknown Coin</Text>
+	</SSPData>
+	<SSPData>
+		<Code>21</Code>
+		<Name>SSP_SCS_CAL_FD_I2C_FAULT</Name>
+		<Text>FD I2C Fault</Text>
+	</SSPData>
+</Root>

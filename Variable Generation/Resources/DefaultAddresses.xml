@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_UNIT_ADDRESS_VALIDATOR</Name>
+		<Text>Validator</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_UNIT_ADDRESS_SMART_PAYOUT</Name>
+		<Text>SMART Payout</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_UNIT_ADDRESS_SMART_CURRENCY</Name>
+		<Text>SMART Currency</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_UNIT_ADDRESS_NV11</Name>
+		<Text>NV11</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+		<Name>SSP_UNIT_ADDRESS_TEBS_SMART_PAYOUT</Name>
+		<Text>TEBS with SMART Payout</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>16</Code>
+		<Name>SSP_UNIT_ADDRESS_SMART_HOPPER</Name>
+		<Text>SMART Hopper</Text>
+	</SSPData>
+	<SSPData>
+		<Code>16</Code>
+		<Name>SSP_UNIT_ADDRESS_BULK_COIN_VALIDATOR</Name>
+		<Text>Bulk Coin Validator</Text>
+	</SSPData>
+	<SSPData>
+		<Code>16</Code>
+		<Name>SSP_UNIT_ADDRESS_SMART_COIN_SYSTEM</Name>
+		<Text>SMART Coin System</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>64</Code>
+		<Name>SSP_UNIT_ADDRESS_SMART_TICKET</Name>
+		<Text>SMART Ticket</Text>
+	</SSPData>
+	<SSPData>
+		<Code>64</Code>
+		<Name>SSP_UNIT_ADDRESS_NVR_280</Name>
+		<Text>NVR 280</Text>
+	</SSPData>
+	<SSPData>
+		<Code>64</Code>
+		<Name>SSP_UNIT_ADDRESS_NV12</Name>
+		<Text>NV12</Text>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>0</Code>
+	</SSPData>
+	<SSPData>
+		<Code>65</Code>
+		<Name>SSP_UNIT_ADDRESS_COUPON_PRINTER</Name>
+		<Text>Coupon Printer</Text>
+	</SSPData>
+	<SSPData>
+		<Code>65</Code>
+		<Name>SSP_UNIT_ADDRESS_FBF</Name>
+		<Text>Flatbed Printer</Text>
+	</SSPData>
+	<SSPData/>
+</Root>
